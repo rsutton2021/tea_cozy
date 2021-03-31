@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+/* universal styles */
+
+body {
+    background-color: black;
+    font-size: 22px;
+    color: seashell;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.9;
+    text-align: center;
+}
+
+/* header */
+
+.nav {
+    text-decoration: underline;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.nav a {
+    color: seashell;
+}
+
+.nav li {
+    display: inline-block;
+    padding-left: 2em;
+}
+
+/* Mission section */
+
+#mission {
+    width: 1200px;
+    height: 700px;
+    background-image: url("./images/mission-background.webp");
+    
+    
+}
+
+.mission_head {
+    background-color: black;
+    
+}
+
+/* Featured Tea section */
+
+/* Location section */
+
+/*  */
