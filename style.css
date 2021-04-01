@@ -122,6 +122,8 @@ nav span {
 
 #location {
     background-image: url("./images/locations-background.webp");
+    background-size: cover;
+    background-position: center;
     height: 500px;
     padding-top: 70px;
 }
@@ -142,6 +144,18 @@ nav span {
     justify-content: center;
 }
 
+/* Contact section */
 
+#contact {
+    height: 200px;
+    
+}
 
-/*  */
+/* footer */
+
+footer {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    font-weight: bold;
+}
